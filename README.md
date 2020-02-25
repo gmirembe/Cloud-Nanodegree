@@ -1,3 +1,12 @@
+
+
+Note : I Could not reach the public url image shared by the Instructor so I ran tests on another public Image URL on my local host 
+
+http://localhost:8082/filteredimage?image_url=https://motorcycles.honda.com.au/img/2019-CRF250-RALLY-Red-Lifestyle-riding-1140x500.jpg 
+
+
+###############################################################################################################
+Assignment Instructions : 
 # Udagram Image Filtering Microservice
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
